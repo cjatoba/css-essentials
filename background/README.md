@@ -17,7 +17,7 @@
     content: "";
     position: absolute;
     inset: 0;
-    //Remove linear-gradient property if you don't want to apply gradient
+    /* Remove linear-gradient property if you don't want to apply gradient */
     background-image: linear-gradient(to right, #07080a, transparent 50%),
       linear-gradient(to bottom, transparent 40%, #07080a 70%),
       url("https://imageurl.com");
