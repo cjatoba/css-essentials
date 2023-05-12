@@ -5,9 +5,9 @@
 /* Chrome */
 ::-webkit-scrollbar {
     display: none;
-  }
-  /* Firefox */
-  -ms-overflow-style: none;
-  /* Internet Explorer */
-  scrollbar-width: none;
+}
+/* Firefox */
+-ms-overflow-style: none;
+/* Internet Explorer */
+scrollbar-width: none;
 ```
